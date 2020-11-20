@@ -4,7 +4,7 @@ while True:
         print('off')
         break
     v1 = int(input("Enter first no:"))
-    v2 = int(input("Enter 2nd no"))
+    v2 = int(input("Enter 2nd no:"))
 
     if w == "off":
         break    
