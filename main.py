@@ -1,5 +1,5 @@
 while True:
-    w = input("what you want +,-,*,/,%,s(sqrt),sq(square),off:")
+    w = input("what you want: +,-,*,/,%,s(sqrt),sq(square),off:-")
     if w == "off":
         print('off')
         break
